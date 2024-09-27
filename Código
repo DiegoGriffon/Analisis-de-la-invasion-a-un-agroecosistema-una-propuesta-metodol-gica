@@ -737,11 +737,13 @@ plot(Agroecosistema, layout = Circulo,
      vertex.label.font = 1, 
      vertex.label.dist = 0.0) 
 
+
 ##################################################
 ##################################################
 #      Grafos utilizados en la metodología
 ##################################################
 ##################################################
+
 
 # Solo correlaciones:
 
@@ -760,7 +762,6 @@ plot(Agroecosistema, layout = Circulo,
      vertex.label.color="black", 
      vertex.label.font = 1, 
      vertex.label.dist = 0.0) 
-
 
 # Correlaciones y retardos:
 
@@ -798,4 +799,3 @@ plot(Agroecosistema, layout = Circulo,
      vertex.label.color="black", 
      vertex.label.font = 1, 
      vertex.label.dist = -2) 
-
